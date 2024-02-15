@@ -1,6 +1,6 @@
 .hero {
     /* background: linear-gradient(180deg, #fde1ff, #e1ffea22 60%); */
-    background: url("C:\Users\H Hamad Afzal\Desktop\Web development\React Js\eccomerce-store\src\Components\Assets\hero_image.png");
+    background: url("/src/Components/Assets/hero_image.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
